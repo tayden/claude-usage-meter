@@ -1,0 +1,15 @@
+{
+  "name": "taylor-plugins",
+  "description": "Taylor's personal Claude Code plugins",
+  "owner": {
+    "name": "Taylor Denouden",
+    "email": "taylor.denouden@hakai.org"
+  },
+  "plugins": [
+    {
+      "name": "usage-meter",
+      "source": "./plugins/usage-meter",
+      "description": "Status line showing Claude subscription usage (5h / weekly limits), context window and session cost"
+    }
+  ]
+}

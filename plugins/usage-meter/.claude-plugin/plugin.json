@@ -1,0 +1,9 @@
+{
+  "name": "usage-meter",
+  "version": "0.1.0",
+  "description": "Status line showing Claude subscription usage (5h / weekly limits), context window and session cost",
+  "author": {
+    "name": "Taylor Denouden",
+    "email": "taylor.denouden@hakai.org"
+  }
+}
